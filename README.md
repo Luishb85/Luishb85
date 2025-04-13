@@ -62,6 +62,11 @@
 </p>
 
 
+<!-- Snake Game em fundo escuro -->
+<p align="center" style="background-color:#0D1117; padding:20px; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=Luishb85" alt="snake game"/>
+</p>
+
 ---
 
 ### 🚀 Projetos em destaque
